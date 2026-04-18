@@ -3,3 +3,5 @@ datasets
 torch
 llmcompressor
 pandas
+colossalai
+peft
