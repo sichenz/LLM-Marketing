@@ -1,2 +1,0 @@
-/bin/bash: line 1: cd: /home/sz4972/LLM-Marketing/deepseek_smol: No such file or directory
-python3: can't open file '/scratch/sz4972/finetune.py': [Errno 2] No such file or directory
